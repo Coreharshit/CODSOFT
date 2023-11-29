@@ -7,3 +7,8 @@ Boosting to predict churn.
 
 
 [DATASET](https://www.kaggle.com/datasets/shantanudhakadd/bank-customer-churn-prediction)
+
+
+
+https://github.com/Coreharshit/CODSOFT/assets/86572653/58464433-6502-47fe-8b3f-69dd74c1e9d5
+
